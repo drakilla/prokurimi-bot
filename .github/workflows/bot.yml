@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write             # që të ruajë state.json
+  actions: write              # që ta nisë vetë runin e radhës
 
 concurrency:
   group: prokurimi-bot
@@ -28,6 +29,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TZ: Europe/Belgrade
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "prokurimi-bot"
           git config user.email "prokurimi-bot@users.noreply.github.com"
@@ -41,3 +43,5 @@ jobs:
             fi
             if [ "$i" -lt 32 ]; then sleep 600; fi
           done
+          # nis runin e radhes, qe boti mos te ndalet kurre (GitHub e vonon cron-in)
+          gh workflow run bot.yml --ref main || echo "nisja e runit te radhes deshtoi"

@@ -77,7 +77,7 @@ DEFAULT_CONFIG = {
         {"name": "Komuna e Fushe Kosoves", "url": "https://fushekosove.rks-gov.net/"},
         {"name": "Komuna e Lipjanit", "url": "https://lipjan.rks-gov.net/"},
         {"name": "Komuna e Mitrovices Jugore", "url": "https://mitroviceejugut.rks-gov.net/"},
-        {"name": "Platforma e shoqerise civile (thirrje, GIZ etj.)", "url": "https://zck-kpz-platform.rks-gov.net/"},
+        {"name": "Kosovo Funding (thirrje, GIZ etj.)", "url": "https://www.kosovofunding.org/"},
         {"name": "LuxDev - Lajme", "url": "https://luxdev.lu/en/news"},
         {"name": "KCSF - Grante", "url": "https://kcsfoundation.org/en/grants/"},
     ],

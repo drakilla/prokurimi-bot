@@ -1678,9 +1678,7 @@
     },
     "last": "2026-11-22 22:34",
     "recent": [],
-    "broken": {
-      "https://zck-kpz-platform.rks-gov.net/": 2
-    }
+    "broken": {}
   },
   "tg_offset": 211607679,
   "last_heartbeat": "2026-11-22"
