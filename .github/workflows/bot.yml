@@ -2,20 +2,20 @@ name: ProkurimiBot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # çdo 10 minuta (GitHub ndonjëherë vonohet disa minuta)
+    - cron: "*/30 * * * *"   # e rindez nëse ndalet; GitHub vonohet shpesh
   workflow_dispatch:          # butoni "Run workflow" për ta ndezur me dorë
 
 permissions:
-  contents: write             # që të ruajë state.json pas çdo kontrolli
+  contents: write             # që të ruajë state.json
 
 concurrency:
   group: prokurimi-bot
-  cancel-in-progress: false
+  cancel-in-progress: false   # një run punon, tjetri pret radhën
 
 jobs:
   kontrolli:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -23,17 +23,21 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Kontrollo e-Prokurimin dhe grantet
+      - name: Kontrollo çdo 10 minuta (rreth 5.5 orë, pastaj niset prapë)
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TZ: Europe/Belgrade
-        run: python prokurimi_bot.py
-
-      - name: Ruaj gjendjen
-        if: always()
         run: |
           git config user.name "prokurimi-bot"
           git config user.email "prokurimi-bot@users.noreply.github.com"
-          git add state.json 2>/dev/null || true
-          git diff --cached --quiet || (git commit -m "gjendja $(date +'%d.%m %H:%M')" && git pull --rebase && git push)
+          for i in $(seq 1 32); do
+            python prokurimi_bot.py || echo "gabim ne kontroll $i"
+            git add state.json 2>/dev/null || true
+            if ! git diff --cached --quiet; then
+              git commit -q -m "gjendja $(date +'%d.%m %H:%M')"
+              git pull --rebase -q || true
+              git push -q || echo "push deshtoi"
+            fi
+            if [ "$i" -lt 32 ]; then sleep 600; fi
+          done

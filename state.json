@@ -1693,10 +1693,7 @@
     },
     "last": "2026-11-22 16:29",
     "recent": [],
-    "broken": {
-      "https://www.giz.de/en/workingwithgiz/calls_for_proposals.html": 3,
-      "https://www2.fundsforngos.org/tag/kosovo/": 3
-    }
+    "broken": {}
   },
   "tg_offset": 211607678,
   "last_heartbeat": "2026-11-22"
