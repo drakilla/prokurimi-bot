@@ -340,7 +340,9 @@
         "TCC"
       ],
       "reminded": [
-        "3"
+        "3",
+        "1",
+        "1"
       ]
     },
     "4396078": {
@@ -362,7 +364,9 @@
         "TCC"
       ],
       "reminded": [
-        "3"
+        "3",
+        "1",
+        "1"
       ]
     },
     "4391698": {
@@ -374,7 +378,9 @@
         "TCC"
       ],
       "reminded": [
-        "3"
+        "3",
+        "1",
+        "1"
       ]
     },
     "4390313": {
@@ -415,7 +421,10 @@
       "cats": [
         "TCC"
       ],
-      "reminded": []
+      "reminded": [
+        "3",
+        "3"
+      ]
     },
     "4383857": {
       "title": "‘‘Shërbimet e përkthimit për nevoja të MDAP-së’’",
@@ -459,10 +468,10 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-22 08:24",
+  "last_run": "2026-11-22 16:29",
   "stats": {
     "2026-11-22": {
-      "checks": 2,
+      "checks": 3,
       "new_tenders": 0,
       "matches": 0,
       "grant_alerts": 0
@@ -1682,12 +1691,13 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-22 08:24",
+    "last": "2026-11-22 16:29",
     "recent": [],
     "broken": {
-      "https://www.giz.de/en/workingwithgiz/calls_for_proposals.html": 2,
-      "https://www2.fundsforngos.org/tag/kosovo/": 2
+      "https://www.giz.de/en/workingwithgiz/calls_for_proposals.html": 3,
+      "https://www2.fundsforngos.org/tag/kosovo/": 3
     }
   },
-  "tg_offset": 211607678
+  "tg_offset": 211607678,
+  "last_heartbeat": "2026-11-22"
 }
