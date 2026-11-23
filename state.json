@@ -490,7 +490,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-23 10:41",
+  "last_run": "2026-11-23 10:51",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -499,10 +499,10 @@
       "grant_alerts": 0
     },
     "2026-11-23": {
-      "checks": 65,
+      "checks": 66,
       "new_tenders": 22,
       "matches": 2,
-      "grant_alerts": 0
+      "grant_alerts": 1
     }
   },
   "fail_count": 0,
@@ -758,7 +758,8 @@
         "https://regjistriteknik.rks-gov.net/",
         "https://gzk.rks-gov.net/",
         "https://www.google.com/maps/dir/42.6480037,21.1669877/Ministria+e+Industris%C3%AB,+Nd%C3%ABrmarr%C3%ABsis%C3%AB+dhe+Tregtis%C3%AB+J5W8%2BJWP+Prishtina/@42.6435528,21.1300375,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x13549ec06f2eea83:0x34a21bac89df272d!2m2!1d21.1672666!2d42.6465043",
-        "https://mail.rks-gov.net/CookieAuth.dll?GetLogon?curl=Z2FOWAZ2F&reason=0&formdir=1"
+        "https://mail.rks-gov.net/CookieAuth.dll?GetLogon?curl=Z2FOWAZ2F&reason=0&formdir=1",
+        "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-MBI-DETYRIMET-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx"
       ],
       "https://minti.rks-gov.net/lajme/": [
         "https://minti.rks-gov.net",
@@ -1444,7 +1445,9 @@
         "https://dphnb.rks-gov.net/",
         "https://pjp-eu.coe.int/en/web/roma-local-governance",
         "https://fushekosove.rks-gov.net/staff/kryetari/",
-        "https://fushekosove.rks-gov.net/zyrat-njesite-sektoret/"
+        "https://fushekosove.rks-gov.net/zyrat-njesite-sektoret/",
+        "https://fushekosove.rks-gov.net/news/panairi-mbarekombetar-i-shpezeve-dhe-shtazeve-te-imta/",
+        "https://fushekosove.rks-gov.net/news/njoftim-nga-drejtoria-e-inspektoratit/"
       ],
       "https://lipjan.rks-gov.net/": [
         "https://lipjan.rks-gov.net",
@@ -1646,7 +1649,9 @@
         "https://mitroviceejugut.rks-gov.net/dpn-mitroviceejugut/dokumentet-e-kuvendit/?tax=thirrja-per-kuvend",
         "https://mitroviceejugut.rks-gov.net/drejtoria-e-sherbime-publike-dhe-infrastrukture/",
         "https://mitroviceejugut.rks-gov.net/drejtoria-per-bujqesi-dhe-zhvillimit-rural/",
-        "https://mitroviceejugut.rks-gov.net/kontratat-e-nenshkruara-3/"
+        "https://mitroviceejugut.rks-gov.net/kontratat-e-nenshkruara-3/",
+        "https://mitroviceejugut.rks-gov.net/news/kryetari-faton-peci-pret-ne-takim-ambasadorin-e-sllovenise-ne-kosove-borut-blaj/",
+        "https://mitroviceejugut.rks-gov.net/news/punimet-per-finalizimin-e-infrastruktures-se-cerdhes-publike-ish-desi-kane-hyre-ne-fazen-perfundimtare/"
       ],
       "https://luxdev.lu/en/news": [
         "https://luxdev.lu/en/mentions-legales/politique-concernant-les-cookies",
@@ -1719,10 +1724,22 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-23 07:48",
-    "recent": [],
+    "last": "2026-11-23 10:51",
+    "recent": [
+      {
+        "date": "23.11.2026",
+        "text": "--> DEKLARATA MBI DETYRIMET – THIRRJE PUBLIKE PËR PËRKRAHJEN E NDËRMARRJEVE NË SKEMËN E GRANTEVE PËR MBËSHTETJEN E GRAVE NDËRMARRËSE NË INOVACION 23/10/2026",
+        "src": "MINTI - Shpalljet",
+        "url": "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-MBI-DETYRIMET-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx",
+        "tags": [
+          "AI",
+          "BIZ"
+        ]
+      }
+    ],
     "broken": {
-      "https://www.kosovofunding.org/": 3
+      "https://www.kosovofunding.org/": 4,
+      "https://me.rks-gov.net/": 1
     }
   },
   "tg_offset": 211607679,
