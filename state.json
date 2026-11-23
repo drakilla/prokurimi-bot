@@ -266,7 +266,29 @@
     "4403986",
     "4404064",
     "4404084",
-    "4404098"
+    "4404098",
+    "4404320",
+    "4404500",
+    "4404703",
+    "4404860",
+    "4405012",
+    "4405421",
+    "4405645",
+    "4405656",
+    "4405705",
+    "4405770",
+    "4405904",
+    "4405936",
+    "4406011",
+    "4406079",
+    "4406202",
+    "4406212",
+    "4406342",
+    "4406381",
+    "4406386",
+    "4406392",
+    "4406393",
+    "4406396"
   ],
   "matches": {
     "4403986": {
@@ -445,10 +467,30 @@
         "TCC"
       ],
       "reminded": []
+    },
+    "4405012": {
+      "title": "Shërbimet e mirëmbajtjes së platformës ARKEP Nettest për monitorimin e parametrave të kualitetit të shërbimeve të qasjes në internet",
+      "buyer": "Agjencia Qendrore e Prokruimit",
+      "deadline": "16.12.2026 14:00",
+      "value": "85,000.00",
+      "cats": [
+        "AI"
+      ],
+      "reminded": []
+    },
+    "4406396": {
+      "title": "Ofrimi i shërbimeve si ekspert i lartë për transformim digjital, arkitekturë dhe Modernizim të Sistemit Tatimor sipas kërkesave të AK-së",
+      "buyer": "ADMINISTRATA TATIMORE E KOSOVËS",
+      "deadline": "14.12.2026 13:30",
+      "value": "72,000.00",
+      "cats": [
+        "AI"
+      ],
+      "reminded": []
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-23 02:54",
+  "last_run": "2026-11-23 03:04",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -457,9 +499,9 @@
       "grant_alerts": 0
     },
     "2026-11-23": {
-      "checks": 18,
-      "new_tenders": 0,
-      "matches": 0,
+      "checks": 19,
+      "new_tenders": 22,
+      "matches": 2,
       "grant_alerts": 0
     }
   },
