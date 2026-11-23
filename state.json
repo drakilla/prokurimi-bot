@@ -490,7 +490,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-23 08:59",
+  "last_run": "2026-11-23 09:09",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -499,7 +499,7 @@
       "grant_alerts": 0
     },
     "2026-11-23": {
-      "checks": 55,
+      "checks": 56,
       "new_tenders": 22,
       "matches": 2,
       "grant_alerts": 0
@@ -1726,5 +1726,5 @@
     }
   },
   "tg_offset": 211607679,
-  "last_heartbeat": "2026-11-22"
+  "last_heartbeat": "2026-11-23"
 }
