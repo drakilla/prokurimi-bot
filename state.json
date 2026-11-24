@@ -488,7 +488,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-24 10:46",
+  "last_run": "2026-11-24 10:57",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -504,10 +504,10 @@
       "errors": 31
     },
     "2026-11-24": {
-      "checks": 66,
+      "checks": 67,
       "new_tenders": 16,
       "matches": 1,
-      "grant_alerts": 0
+      "grant_alerts": 1
     }
   },
   "fail_count": 0,
@@ -766,7 +766,8 @@
         "https://mail.rks-gov.net/CookieAuth.dll?GetLogon?curl=Z2FOWAZ2F&reason=0&formdir=1",
         "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-MBI-DETYRIMET-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx",
         "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-MBI-DETYRIMET-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-TE-INOVACIONIT-NE-TEKNOLOGJINE-E-INFORMACIONIT-DHE-TE-KOMUNIKIMIT-TIK.docx",
-        "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-PER-PRANIMIN-E-MJETEVE-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-TE-INOVACIONIT-NE-TEKNOLOGJINE-E-INFORMACIONIT-DHE-TE-KOMUNIKIMIT-TIK.docx"
+        "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-PER-PRANIMIN-E-MJETEVE-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-TE-INOVACIONIT-NE-TEKNOLOGJINE-E-INFORMACIONIT-DHE-TE-KOMUNIKIMIT-TIK.docx",
+        "https://minti.rks-gov.net/wp-content/uploads/2026/10/THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx"
       ],
       "https://minti.rks-gov.net/lajme/": [
         "https://minti.rks-gov.net",
@@ -1458,7 +1459,8 @@
         "https://fushekosove.rks-gov.net/zyrat-njesite-sektoret/",
         "https://fushekosove.rks-gov.net/news/panairi-mbarekombetar-i-shpezeve-dhe-shtazeve-te-imta/",
         "https://fushekosove.rks-gov.net/news/njoftim-nga-drejtoria-e-inspektoratit/",
-        "https://fushekosove.rks-gov.net/news/u-mbajt-mbledhja-e-v-e-jashtezakonshme-e-kuvendit-komunal-te-fushe-kosoves/"
+        "https://fushekosove.rks-gov.net/news/u-mbajt-mbledhja-e-v-e-jashtezakonshme-e-kuvendit-komunal-te-fushe-kosoves/",
+        "https://fushekosove.rks-gov.net/news/po-vazhdojne-punimet-ne-rrugen-hajrullah-zymi/"
       ],
       "https://lipjan.rks-gov.net/": [
         "https://lipjan.rks-gov.net",
@@ -1736,8 +1738,18 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-24 07:53",
+    "last": "2026-11-24 10:57",
     "recent": [
+      {
+        "date": "24.11.2026",
+        "text": "--> THIRRJE PUBLIKE PËR PËRKRAHJEN E NDËRMARRJEVE NË SKEMËN E GRANTEVE PËR MBËSHTETJEN E GRAVE NDËRMARRËSE NË INOVACION 23/10/2026",
+        "src": "MINTI - Shpalljet",
+        "url": "https://minti.rks-gov.net/wp-content/uploads/2026/10/THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx",
+        "tags": [
+          "AI",
+          "BIZ"
+        ]
+      },
       {
         "date": "23.11.2026",
         "text": "Konkurs letrar për Takimet e Kulturës “Kadri Kadriu” 2026 19/11/2026 Drejtoria për Kulturë, Rini dhe Sport e Komunës së Podujevës, në kuadër të edicionit të 44-të të Takimeve të Kulturës...",
@@ -1779,7 +1791,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 10
+      "https://www.kosovofunding.org/": 11
     }
   },
   "tg_offset": 211607679,
