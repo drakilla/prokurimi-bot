@@ -491,7 +491,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-24 13:49",
+  "last_run": "2026-11-24 13:59",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -507,10 +507,10 @@
       "errors": 31
     },
     "2026-11-24": {
-      "checks": 85,
+      "checks": 86,
       "new_tenders": 16,
       "matches": 1,
-      "grant_alerts": 1
+      "grant_alerts": 2
     }
   },
   "fail_count": 0,
@@ -770,7 +770,8 @@
         "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-MBI-DETYRIMET-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx",
         "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-MBI-DETYRIMET-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-TE-INOVACIONIT-NE-TEKNOLOGJINE-E-INFORMACIONIT-DHE-TE-KOMUNIKIMIT-TIK.docx",
         "https://minti.rks-gov.net/wp-content/uploads/2026/10/DEKLARATA-PER-PRANIMIN-E-MJETEVE-THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-TE-INOVACIONIT-NE-TEKNOLOGJINE-E-INFORMACIONIT-DHE-TE-KOMUNIKIMIT-TIK.docx",
-        "https://minti.rks-gov.net/wp-content/uploads/2026/10/THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx"
+        "https://minti.rks-gov.net/wp-content/uploads/2026/10/THIRRJE-PUBLIKE-PER-PERKRAHJEN-E-NDERMARRJEVE-NE-SKEMEN-E-GRANTEVE-PER-MBESHTETJEN-E-GRAVE-NDERMARRESE-NE-INOVACION.docx",
+        "https://minti.rks-gov.net/wp-content/uploads/2026/10/UDHEZUES-PER-SKEMEN-E-GRANTEVE-TE-INOVACIONIT-NE-TEKNOLOGJINE-E-INFORMACIONIT-DHE-TE-KOMUNIKIMIT-TIK-KATEGORIA-EKONOMIKE-SUBVENCIONE-DHE-TRANSFERE-PER-NMVM-DHE-BIZNESET-START-UP.docx"
       ],
       "https://minti.rks-gov.net/lajme/": [
         "https://minti.rks-gov.net",
@@ -1668,7 +1669,9 @@
         "https://mitroviceejugut.rks-gov.net/kontratat-e-nenshkruara-3/",
         "https://mitroviceejugut.rks-gov.net/news/kryetari-faton-peci-pret-ne-takim-ambasadorin-e-sllovenise-ne-kosove-borut-blaj/",
         "https://mitroviceejugut.rks-gov.net/news/punimet-per-finalizimin-e-infrastruktures-se-cerdhes-publike-ish-desi-kane-hyre-ne-fazen-perfundimtare/",
-        "https://mitroviceejugut.rks-gov.net/news/si-kurore-e-nje-mbretereshe-mbi-lumin-e-sitnices-nis-projekti-i-ures-se-re-te-sitnices/"
+        "https://mitroviceejugut.rks-gov.net/news/si-kurore-e-nje-mbretereshe-mbi-lumin-e-sitnices-nis-projekti-i-ures-se-re-te-sitnices/",
+        "https://mitroviceejugut.rks-gov.net/news/komuna-e-mitrovices-dhe-preda-plus-nenshkruajne-marreveshje-per-mbeshtetjen-e-personave-me-aftesi-te-kufizuara/",
+        "https://mitroviceejugut.rks-gov.net/news/u-mbajt-mbledhja-e-11-te-e-rregullt-e-komitetit-per-politike-dhe-financa/"
       ],
       "https://luxdev.lu/en/news": [
         "https://luxdev.lu/en/mentions-legales/politique-concernant-les-cookies",
@@ -1741,8 +1744,18 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-24 10:57",
+    "last": "2026-11-24 13:59",
     "recent": [
+      {
+        "date": "24.11.2026",
+        "text": "--> UDHËZUES PËR SKEMËN E GRANTEVE TË INOVACIONIT NË TEKNOLOGJINË E INFORMACIONIT DHE TË KOMUNIKIMIT (TIK) – KATEGORIA EKONOMIKE SUBVENCIONE DHE TRANSFERE PËR NMVM DHE BIZNESET START-UP 23/10/2026",
+        "src": "MINTI - Shpalljet",
+        "url": "https://minti.rks-gov.net/wp-content/uploads/2026/10/UDHEZUES-PER-SKEMEN-E-GRANTEVE-TE-INOVACIONIT-NE-TEKNOLOGJINE-E-INFORMACIONIT-DHE-TE-KOMUNIKIMIT-TIK-KATEGORIA-EKONOMIKE-SUBVENCIONE-DHE-TRANSFERE-PER-NMVM-DHE-BIZNESET-START-UP.docx",
+        "tags": [
+          "AI",
+          "BIZ"
+        ]
+      },
       {
         "date": "24.11.2026",
         "text": "--> THIRRJE PUBLIKE PËR PËRKRAHJEN E NDËRMARRJEVE NË SKEMËN E GRANTEVE PËR MBËSHTETJEN E GRAVE NDËRMARRËSE NË INOVACION 23/10/2026",
@@ -1794,7 +1807,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 11
+      "https://www.kosovofunding.org/": 12
     }
   },
   "tg_offset": 211607679,
