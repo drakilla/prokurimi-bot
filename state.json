@@ -462,7 +462,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-24 01:39",
+  "last_run": "2026-11-24 01:49",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -478,9 +478,10 @@
       "errors": 31
     },
     "2026-11-24": {
-      "checks": 11,
+      "checks": 12,
       "new_tenders": 0,
-      "matches": 0
+      "matches": 0,
+      "grant_alerts": 0
     }
   },
   "fail_count": 0,
@@ -1709,7 +1710,7 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-23 22:42",
+    "last": "2026-11-24 01:49",
     "recent": [
       {
         "date": "23.11.2026",
@@ -1752,7 +1753,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 7
+      "https://www.kosovofunding.org/": 8
     }
   },
   "tg_offset": 211607679,
