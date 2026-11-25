@@ -450,7 +450,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-25 14:32",
+  "last_run": "2026-11-25 14:42",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -472,7 +472,7 @@
       "grant_alerts": 2
     },
     "2026-11-25": {
-      "checks": 89,
+      "checks": 90,
       "new_tenders": 33,
       "matches": 0,
       "grant_alerts": 0
@@ -1784,6 +1784,6 @@
       "https://www.kosovofunding.org/": 20
     }
   },
-  "tg_offset": 211607679,
+  "tg_offset": 211607680,
   "last_heartbeat": "2026-11-25"
 }
