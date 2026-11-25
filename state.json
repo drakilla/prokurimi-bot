@@ -320,20 +320,6 @@
       ],
       "reminded": []
     },
-    "4394062": {
-      "title": "Dekorimi i objektit te Drejtorisë për festat e fund vitit.",
-      "buyer": "Kompania Rajonale e Ujësjellësit GJAKOVA SH.A.",
-      "deadline": "23.11.2026 13:00",
-      "value": "3,500.00",
-      "cats": [
-        "TCC"
-      ],
-      "reminded": [
-        "3",
-        "1",
-        "1"
-      ]
-    },
     "4396078": {
       "title": "FurnizimI me dekorime për dekorimin e qytetit për festat e fundvitit",
       "buyer": "NDËRMARRJA PUBLIKE LOKALE KASTRIOTI SH.A.",
@@ -352,20 +338,6 @@
       "buyer": "N.P.L.\" PALLATI I RINISË \" SH.A.",
       "deadline": "23.11.2026 14:00",
       "value": "8,500.00",
-      "cats": [
-        "TCC"
-      ],
-      "reminded": [
-        "3",
-        "1",
-        "1"
-      ]
-    },
-    "4391698": {
-      "title": "Dekorimi vitit të ri të rrugës kryesore në Shtërpce.",
-      "buyer": "KOMUNA SHTËRPCË",
-      "deadline": "23.11.2026 13:00",
-      "value": "9,900.00",
       "cats": [
         "TCC"
       ],
@@ -492,7 +464,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-25 12:59",
+  "last_run": "2026-11-25 13:09",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -514,7 +486,7 @@
       "grant_alerts": 2
     },
     "2026-11-25": {
-      "checks": 79,
+      "checks": 80,
       "new_tenders": 33,
       "matches": 0,
       "grant_alerts": 0
