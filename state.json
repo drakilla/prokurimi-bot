@@ -450,7 +450,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-25 14:11",
+  "last_run": "2026-11-25 14:21",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -472,7 +472,7 @@
       "grant_alerts": 2
     },
     "2026-11-25": {
-      "checks": 87,
+      "checks": 88,
       "new_tenders": 33,
       "matches": 0,
       "grant_alerts": 0
@@ -1523,7 +1523,8 @@
         "https://lipjan.rks-gov.net/shiko-online-mbledhjen-e-kuvendit-te-komunes/",
         "https://lipjan.rks-gov.net/faq/",
         "https://lipjan.rks-gov.net/video-incizimet-e-mbledhjeve/",
-        "https://www.youtube.com/watch?v=uDeUpves500"
+        "https://www.youtube.com/watch?v=uDeUpves500",
+        "https://lipjan.rks-gov.net/news/nenkryetarja-per-komunitete-ne-komunen-e-lipjanit-znj-mehreme-goliqi-ka-marre-pjese-ne-samitin-rajonal-per-luftimin-e-diskriminimit-ndaj-komuniteteve-rom-ashkali-dhe-egjiptian-i-cili-u-mbajt-ne-pri/"
       ],
       "https://mitroviceejugut.rks-gov.net/": [
         "https://mitroviceejugut.rks-gov.net",
@@ -1717,7 +1718,7 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-25 11:17",
+    "last": "2026-11-25 14:21",
     "recent": [
       {
         "date": "24.11.2026",
@@ -1780,7 +1781,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 19
+      "https://www.kosovofunding.org/": 20
     }
   },
   "tg_offset": 211607679,
