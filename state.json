@@ -492,7 +492,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-25 11:07",
+  "last_run": "2026-11-25 11:17",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -514,7 +514,7 @@
       "grant_alerts": 2
     },
     "2026-11-25": {
-      "checks": 68,
+      "checks": 69,
       "new_tenders": 33,
       "matches": 0,
       "grant_alerts": 0
@@ -1475,7 +1475,9 @@
         "https://fushekosove.rks-gov.net/news/panairi-mbarekombetar-i-shpezeve-dhe-shtazeve-te-imta/",
         "https://fushekosove.rks-gov.net/news/njoftim-nga-drejtoria-e-inspektoratit/",
         "https://fushekosove.rks-gov.net/news/u-mbajt-mbledhja-e-v-e-jashtezakonshme-e-kuvendit-komunal-te-fushe-kosoves/",
-        "https://fushekosove.rks-gov.net/news/po-vazhdojne-punimet-ne-rrugen-hajrullah-zymi/"
+        "https://fushekosove.rks-gov.net/news/po-vazhdojne-punimet-ne-rrugen-hajrullah-zymi/",
+        "https://fushekosove.rks-gov.net/news/nis-fushata-kunder-dhunes/",
+        "https://fushekosove.rks-gov.net/news/nis-realizimi-i-projektit-per-rregullimin-e-rruges-se-uglarit/"
       ],
       "https://lipjan.rks-gov.net/": [
         "https://lipjan.rks-gov.net",
@@ -1682,7 +1684,8 @@
         "https://mitroviceejugut.rks-gov.net/news/punimet-per-finalizimin-e-infrastruktures-se-cerdhes-publike-ish-desi-kane-hyre-ne-fazen-perfundimtare/",
         "https://mitroviceejugut.rks-gov.net/news/si-kurore-e-nje-mbretereshe-mbi-lumin-e-sitnices-nis-projekti-i-ures-se-re-te-sitnices/",
         "https://mitroviceejugut.rks-gov.net/news/komuna-e-mitrovices-dhe-preda-plus-nenshkruajne-marreveshje-per-mbeshtetjen-e-personave-me-aftesi-te-kufizuara/",
-        "https://mitroviceejugut.rks-gov.net/news/u-mbajt-mbledhja-e-11-te-e-rregullt-e-komitetit-per-politike-dhe-financa/"
+        "https://mitroviceejugut.rks-gov.net/news/u-mbajt-mbledhja-e-11-te-e-rregullt-e-komitetit-per-politike-dhe-financa/",
+        "https://mitroviceejugut.rks-gov.net/news/agjenda-e-aktiviteteve-per-festat-e-nentorit/"
       ],
       "https://luxdev.lu/en/news": [
         "https://luxdev.lu/en/mentions-legales/politique-concernant-les-cookies",
@@ -1710,7 +1713,8 @@
         "https://luxdev.lu/en/news/beyond-access-finance-helping-women-led-businesses-grow-through-financial-literacy-and-market",
         "https://luxdev.lu/en/news?page=27",
         "https://luxdev.lu/en/brand-resources",
-        "https://luxdev.lu/en/legal-information"
+        "https://luxdev.lu/en/legal-information",
+        "https://luxdev.lu/en/news/addressing-gender-based-violence-preventing-it-protecting-survivors-and-upholding-their-rights"
       ],
       "https://kcsfoundation.org/en/grants/": [
         "https://grants.kcsfoundation.org/?language=en",
@@ -1755,7 +1759,7 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-25 08:14",
+    "last": "2026-11-25 11:17",
     "recent": [
       {
         "date": "24.11.2026",
@@ -1818,7 +1822,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 18
+      "https://www.kosovofunding.org/": 19
     }
   },
   "tg_offset": 211607679,
