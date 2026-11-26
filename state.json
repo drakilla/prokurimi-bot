@@ -482,10 +482,10 @@
       "new_tenders": 20,
       "matches": 2,
       "grant_alerts": 1,
-      "errors": 1
+      "errors": 2
     }
   },
-  "fail_count": 1,
+  "fail_count": 2,
   "grants": {
     "seen": {
       "https://kiesa.rks-gov.net/page.aspx?id=1,134": [
