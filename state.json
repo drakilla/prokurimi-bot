@@ -421,7 +421,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-26 02:47",
+  "last_run": "2026-11-26 02:57",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -450,7 +450,7 @@
       "errors": 1
     },
     "2026-11-26": {
-      "checks": 18,
+      "checks": 19,
       "new_tenders": 0,
       "matches": 0,
       "grant_alerts": 0
