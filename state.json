@@ -449,7 +449,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-26 14:37",
+  "last_run": "2026-11-26 14:47",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -478,7 +478,7 @@
       "errors": 1
     },
     "2026-11-26": {
-      "checks": 90,
+      "checks": 91,
       "new_tenders": 20,
       "matches": 2,
       "grant_alerts": 1
@@ -920,7 +920,8 @@
         "https://twitter.com/EconomyRks",
         "https://me.rks-gov.net/blog/cdo-veprim-con-peshe-2/",
         "https://me.rks-gov.net/wp-content/uploads/2026/11/cdo-veprim-poci-1.png",
-        "https://me.rks-gov.net/blog/ministrja-e-ekonomise-priti-ne-takim-ambasadorin-e-austrise-georg-schnetzer-diskutuan-thellimin-e-bashkepunimit-ekonomik-dhe-investimet-ne-energji/"
+        "https://me.rks-gov.net/blog/ministrja-e-ekonomise-priti-ne-takim-ambasadorin-e-austrise-georg-schnetzer-diskutuan-thellimin-e-bashkepunimit-ekonomik-dhe-investimet-ne-energji/",
+        "https://me.rks-gov.net/blog/kompania-franceze-akuo-energy-sas-shpallet-fituese-e-ankandit-te-pare-te-energjise-nga-era-me-kapacitet-prej-98-mw/"
       ],
       "https://ojqfinancime.rks-gov.net/": [
         "https://ojqfinancime.rks-gov.net/",
@@ -1659,7 +1660,10 @@
         "https://mitroviceejugut.rks-gov.net/news/si-kurore-e-nje-mbretereshe-mbi-lumin-e-sitnices-nis-projekti-i-ures-se-re-te-sitnices/",
         "https://mitroviceejugut.rks-gov.net/news/komuna-e-mitrovices-dhe-preda-plus-nenshkruajne-marreveshje-per-mbeshtetjen-e-personave-me-aftesi-te-kufizuara/",
         "https://mitroviceejugut.rks-gov.net/news/u-mbajt-mbledhja-e-11-te-e-rregullt-e-komitetit-per-politike-dhe-financa/",
-        "https://mitroviceejugut.rks-gov.net/news/agjenda-e-aktiviteteve-per-festat-e-nentorit/"
+        "https://mitroviceejugut.rks-gov.net/news/agjenda-e-aktiviteteve-per-festat-e-nentorit/",
+        "https://mitroviceejugut.rks-gov.net/news/komuna-mbeshtet-18-organizata-joqeveritare-ojq/",
+        "https://mitroviceejugut.rks-gov.net/news/ndricohet-objekti-i-komunes-se-mitrovices-ne-kuader-te-fushates-16-ditet-e-aktivizmit/",
+        "https://mitroviceejugut.rks-gov.net/news/njoftim-per-qytetaret-2/"
       ],
       "https://luxdev.lu/en/news": [
         "https://luxdev.lu/en/mentions-legales/politique-concernant-les-cookies",
@@ -1733,7 +1737,7 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-26 11:45",
+    "last": "2026-11-26 14:47",
     "recent": [
       {
         "date": "26.11.2026",
@@ -1814,7 +1818,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 27
+      "https://www.kosovofunding.org/": 28
     }
   },
   "tg_offset": 211607680,
