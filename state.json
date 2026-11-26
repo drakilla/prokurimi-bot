@@ -483,9 +483,12 @@
       "matches": 2,
       "grant_alerts": 1,
       "errors": 16
+    },
+    "2026-11-27": {
+      "errors": 1
     }
   },
-  "fail_count": 16,
+  "fail_count": 17,
   "grants": {
     "seen": {
       "https://kiesa.rks-gov.net/page.aspx?id=1,134": [
