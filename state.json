@@ -244,7 +244,27 @@
     "4412054",
     "4412063",
     "4412121",
-    "4412139"
+    "4412139",
+    "4412444",
+    "4412491",
+    "4413060",
+    "4413284",
+    "4413378",
+    "4413479",
+    "4413549",
+    "4413656",
+    "4413676",
+    "4413730",
+    "4413848",
+    "4413864",
+    "4413869",
+    "4413919",
+    "4413953",
+    "4413996",
+    "4414004",
+    "4414006",
+    "4414077",
+    "4414226"
   ],
   "matches": {
     "4403986": {
@@ -418,10 +438,30 @@
         "TCC"
       ],
       "reminded": []
+    },
+    "4413656": {
+      "title": "Furnizim dhe funksionalizim të Hartës OSM-rezolucion 5m në modulin softuerik SPECTRAemc të sistemit SPECTRA në ARKEP",
+      "buyer": "Agjencia Qendrore e Prokruimit",
+      "deadline": "07.12.2026 14:00",
+      "value": "5,000.00",
+      "cats": [
+        "AI"
+      ],
+      "reminded": []
+    },
+    "4413864": {
+      "title": "Furnizimi dhe montimi i paisjeve te zerimit per sallen e Kuvendit te Komunes ne Suharekë",
+      "buyer": "KOMUNA SUHAREKË",
+      "deadline": "07.12.2026 14:00",
+      "value": "20,000.00",
+      "cats": [
+        "TCC"
+      ],
+      "reminded": []
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-26 02:57",
+  "last_run": "2026-11-26 03:07",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -450,9 +490,9 @@
       "errors": 1
     },
     "2026-11-26": {
-      "checks": 19,
-      "new_tenders": 0,
-      "matches": 0,
+      "checks": 20,
+      "new_tenders": 20,
+      "matches": 2,
       "grant_alerts": 0
     }
   },
