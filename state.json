@@ -482,10 +482,10 @@
       "new_tenders": 20,
       "matches": 2,
       "grant_alerts": 1,
-      "errors": 15
+      "errors": 16
     }
   },
-  "fail_count": 15,
+  "fail_count": 16,
   "grants": {
     "seen": {
       "https://kiesa.rks-gov.net/page.aspx?id=1,134": [
@@ -1739,7 +1739,7 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-26 20:52",
+    "last": "2026-11-26 23:58",
     "recent": [
       {
         "date": "26.11.2026",
@@ -1820,7 +1820,18 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 30
+      "https://www.kosovofunding.org/": 31,
+      "https://kiesa.rks-gov.net/page.aspx?id=1,134": 1,
+      "https://minti.rks-gov.net/shpalljet/": 1,
+      "https://minti.rks-gov.net/lajme/": 1,
+      "https://me.rks-gov.net/": 1,
+      "https://ojqfinancime.rks-gov.net/": 1,
+      "https://prishtina.rks-gov.net/": 1,
+      "https://gjakova.rks-gov.net/": 1,
+      "https://podujeve.rks-gov.net/": 1,
+      "https://fushekosove.rks-gov.net/": 1,
+      "https://lipjan.rks-gov.net/": 1,
+      "https://mitroviceejugut.rks-gov.net/": 1
     }
   },
   "tg_offset": 211607680,
