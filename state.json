@@ -333,21 +333,6 @@
       ],
       "reminded": []
     },
-    "4386566": {
-      "title": "Dekorimi i qyetit per festat e fundvitit 2026 2028",
-      "buyer": "KOMUNA SUHAREKË",
-      "deadline": "25.11.2026 14:00",
-      "value": "50,000.00",
-      "cats": [
-        "TCC"
-      ],
-      "reminded": [
-        "3",
-        "3",
-        "1",
-        "1"
-      ]
-    },
     "4383857": {
       "title": "‘‘Shërbimet e përkthimit për nevoja të MDAP-së’’",
       "buyer": "MINISTRIA E DIGJITALIZIMIT DHE ADMINISTRATES PUBLIKE",
@@ -356,7 +341,10 @@
       "cats": [
         "AI"
       ],
-      "reminded": []
+      "reminded": [
+        "3",
+        "3"
+      ]
     },
     "4383816": {
       "title": "Furnizim me licencë softuerike për dedektimin e plagjiaturës dhe identifikimin e përmbajtjes së gjeneruar nga intelegjenca artificiale",
@@ -389,7 +377,10 @@
       "cats": [
         "TCC"
       ],
-      "reminded": []
+      "reminded": [
+        "3",
+        "3"
+      ]
     },
     "4405012": {
       "title": "Shërbimet e mirëmbajtjes së platformës ARKEP Nettest për monitorimin e parametrave të kualitetit të shërbimeve të qasjes në internet",
@@ -473,7 +464,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-27 13:58",
+  "last_run": "2026-11-27 14:08",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -510,7 +501,7 @@
     },
     "2026-11-27": {
       "errors": 15,
-      "checks": 35,
+      "checks": 36,
       "new_tenders": 28,
       "matches": 3,
       "grant_alerts": 0
