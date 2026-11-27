@@ -467,7 +467,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-27 11:15",
+  "last_run": "2026-11-27 11:25",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -504,7 +504,7 @@
     },
     "2026-11-27": {
       "errors": 15,
-      "checks": 18,
+      "checks": 19,
       "new_tenders": 28,
       "matches": 3,
       "grant_alerts": 0
@@ -947,7 +947,9 @@
         "https://me.rks-gov.net/blog/cdo-veprim-con-peshe-2/",
         "https://me.rks-gov.net/wp-content/uploads/2026/11/cdo-veprim-poci-1.png",
         "https://me.rks-gov.net/blog/ministrja-e-ekonomise-priti-ne-takim-ambasadorin-e-austrise-georg-schnetzer-diskutuan-thellimin-e-bashkepunimit-ekonomik-dhe-investimet-ne-energji/",
-        "https://me.rks-gov.net/blog/kompania-franceze-akuo-energy-sas-shpallet-fituese-e-ankandit-te-pare-te-energjise-nga-era-me-kapacitet-prej-98-mw/"
+        "https://me.rks-gov.net/blog/kompania-franceze-akuo-energy-sas-shpallet-fituese-e-ankandit-te-pare-te-energjise-nga-era-me-kapacitet-prej-98-mw/",
+        "https://me.rks-gov.net/blog/ministrja-artane-rizvanolli-takoi-ambasadorin-e-hungarise-ne-kosove-laszlo-istvan-dux/",
+        "https://me.rks-gov.net/wp-content/uploads/2026/11/1-1-1-scaled.jpg"
       ],
       "https://ojqfinancime.rks-gov.net/": [
         "https://ojqfinancime.rks-gov.net/",
@@ -1396,7 +1398,9 @@
         "https://podujeve.rks-gov.net/news/agjenda-e-28-nentorit-festes-se-flamurit-kombetar/",
         "https://podujeve.rks-gov.net/news/grupi-i-grave-asambleiste-vizitoi-qendren-e-shendetit-mendor/",
         "https://podujeve.rks-gov.net/news/kryetari-bulliqi-mori-pjese-ne-pritjen-e-organizuar-nga-ambasada-e-shqiperise-per-festen-e-28-nentorit/",
-        "https://podujeve.rks-gov.net/news/njoftim-per-operatoret-e-transportit-publik-te-linjave-nderurbane/"
+        "https://podujeve.rks-gov.net/news/njoftim-per-operatoret-e-transportit-publik-te-linjave-nderurbane/",
+        "https://podujeve.rks-gov.net/news/perfundoi-asfaltimi-i-rruges-dumosh-siboc-ne-gjatesi-prej-1-6-kilometrash/",
+        "https://podujeve.rks-gov.net/news/u-mbajt-edicioni-i-peste-i-manifestimit-letrar-adem-demaci/"
       ],
       "https://fushekosove.rks-gov.net/": [
         "https://fushekosove.rks-gov.net",
@@ -1475,7 +1479,8 @@
         "https://fushekosove.rks-gov.net/news/po-vazhdojne-punimet-ne-rrugen-hajrullah-zymi/",
         "https://fushekosove.rks-gov.net/news/nis-fushata-kunder-dhunes/",
         "https://fushekosove.rks-gov.net/news/nis-realizimi-i-projektit-per-rregullimin-e-rruges-se-uglarit/",
-        "https://fushekosove.rks-gov.net/news/ftese-manifestim-festiv-ne-nder-te-28-nentorit/"
+        "https://fushekosove.rks-gov.net/news/ftese-manifestim-festiv-ne-nder-te-28-nentorit/",
+        "https://fushekosove.rks-gov.net/news/28-nentori-shenohet-me-aktivitete-festive-ne-komunen-e-fushe-kosoves/"
       ],
       "https://lipjan.rks-gov.net/": [
         "https://lipjan.rks-gov.net",
@@ -1690,7 +1695,9 @@
         "https://mitroviceejugut.rks-gov.net/news/agjenda-e-aktiviteteve-per-festat-e-nentorit/",
         "https://mitroviceejugut.rks-gov.net/news/komuna-mbeshtet-18-organizata-joqeveritare-ojq/",
         "https://mitroviceejugut.rks-gov.net/news/ndricohet-objekti-i-komunes-se-mitrovices-ne-kuader-te-fushates-16-ditet-e-aktivizmit/",
-        "https://mitroviceejugut.rks-gov.net/news/njoftim-per-qytetaret-2/"
+        "https://mitroviceejugut.rks-gov.net/news/njoftim-per-qytetaret-2/",
+        "https://mitroviceejugut.rks-gov.net/news/njoftim-per-mbledhje-komemorative-3/",
+        "https://mitroviceejugut.rks-gov.net/news/diskutim-publik-per-planin-komunal-te-sherbimeve-sociale-dhe-familjare-2027-2029/"
       ],
       "https://luxdev.lu/en/news": [
         "https://luxdev.lu/en/mentions-legales/politique-concernant-les-cookies",
@@ -1764,7 +1771,7 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-27 08:17",
+    "last": "2026-11-27 11:25",
     "recent": [
       {
         "date": "26.11.2026",
@@ -1845,7 +1852,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 32
+      "https://www.kosovofunding.org/": 33
     }
   },
   "tg_offset": 211607680,
