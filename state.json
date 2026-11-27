@@ -485,10 +485,10 @@
       "errors": 16
     },
     "2026-11-27": {
-      "errors": 6
+      "errors": 7
     }
   },
-  "fail_count": 22,
+  "fail_count": 23,
   "grants": {
     "seen": {
       "https://kiesa.rks-gov.net/page.aspx?id=1,134": [
