@@ -1,41 +1,5 @@
 {
   "seen": [
-    "4388992",
-    "4389078",
-    "4389097",
-    "4389137",
-    "4389354",
-    "4389362",
-    "4389535",
-    "4389594",
-    "4389687",
-    "4389729",
-    "4389764",
-    "4389962",
-    "4390046",
-    "4390104",
-    "4390164",
-    "4390313",
-    "4390422",
-    "4390448",
-    "4390496",
-    "4390566",
-    "4390572",
-    "4390589",
-    "4390590",
-    "4390626",
-    "4390630",
-    "4390651",
-    "4390657",
-    "4390673",
-    "4390688",
-    "4390701",
-    "4390730",
-    "4390761",
-    "4390776",
-    "4390783",
-    "4390802",
-    "4390809",
     "4391187",
     "4391629",
     "4391637",
@@ -264,7 +228,27 @@
     "4414004",
     "4414006",
     "4414077",
-    "4414226"
+    "4414226",
+    "4414859",
+    "4415134",
+    "4415647",
+    "4415835",
+    "4415985",
+    "4416032",
+    "4416197",
+    "4416228",
+    "4416241",
+    "4416364",
+    "4416366",
+    "4416372",
+    "4416417",
+    "4416437",
+    "4416463",
+    "4416502",
+    "4416542",
+    "4416544",
+    "4416615",
+    "4416617"
   ],
   "matches": {
     "4403986": {
@@ -446,10 +430,40 @@
         "TCC"
       ],
       "reminded": []
+    },
+    "4415985": {
+      "title": "Dekorime për festat e fund vitit në Kuvendin e Republikës së Kosovës",
+      "buyer": "KUVENDI I KOSOVËS",
+      "deadline": "03.12.2026 14:00",
+      "value": "6,000.00",
+      "cats": [
+        "TCC"
+      ],
+      "reminded": []
+    },
+    "4416032": {
+      "title": "Furnizim me 25 Kufje",
+      "buyer": "TELEKOMI I KOSOVËS SH.A.",
+      "deadline": "07.12.2026 14:00",
+      "value": "1,250.00",
+      "cats": [
+        "TCC"
+      ],
+      "reminded": []
+    },
+    "4416463": {
+      "title": "FurnizimI me dekorime për dekorimin e qytetit për festat e fundvitit",
+      "buyer": "Ndërmarrja Publike Lokale Fushë Kosova SH.A.",
+      "deadline": "07.12.2026 14:00",
+      "value": "40,000.00",
+      "cats": [
+        "TCC"
+      ],
+      "reminded": []
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-26 21:12",
+  "last_run": "2026-11-27 08:17",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -485,10 +499,14 @@
       "errors": 16
     },
     "2026-11-27": {
-      "errors": 15
+      "errors": 15,
+      "checks": 1,
+      "new_tenders": 24,
+      "matches": 3,
+      "grant_alerts": 0
     }
   },
-  "fail_count": 31,
+  "fail_count": 0,
   "grants": {
     "seen": {
       "https://kiesa.rks-gov.net/page.aspx?id=1,134": [
@@ -1742,7 +1760,7 @@
         "https://www.instagram.com/kcsf_foundation/"
       ]
     },
-    "last": "2026-11-26 23:58",
+    "last": "2026-11-27 08:17",
     "recent": [
       {
         "date": "26.11.2026",
@@ -1823,18 +1841,7 @@
       }
     ],
     "broken": {
-      "https://www.kosovofunding.org/": 31,
-      "https://kiesa.rks-gov.net/page.aspx?id=1,134": 1,
-      "https://minti.rks-gov.net/shpalljet/": 1,
-      "https://minti.rks-gov.net/lajme/": 1,
-      "https://me.rks-gov.net/": 1,
-      "https://ojqfinancime.rks-gov.net/": 1,
-      "https://prishtina.rks-gov.net/": 1,
-      "https://gjakova.rks-gov.net/": 1,
-      "https://podujeve.rks-gov.net/": 1,
-      "https://fushekosove.rks-gov.net/": 1,
-      "https://lipjan.rks-gov.net/": 1,
-      "https://mitroviceejugut.rks-gov.net/": 1
+      "https://www.kosovofunding.org/": 32
     }
   },
   "tg_offset": 211607680,
