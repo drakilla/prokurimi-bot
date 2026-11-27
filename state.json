@@ -263,7 +263,10 @@
       "cats": [
         "TCC"
       ],
-      "reminded": []
+      "reminded": [
+        "3",
+        "3"
+      ]
     },
     "4399025": {
       "title": "Sistemi per automatizimin e proceseve te monitorimit, detektimit dhe menaxhimit te mashtrimeve - FMS (Fraud Management System)",
@@ -373,7 +376,10 @@
       "cats": [
         "TCC"
       ],
-      "reminded": []
+      "reminded": [
+        "3",
+        "3"
+      ]
     },
     "4380534": {
       "title": "Shërbime për transmetimin e seancave të Kuvendit",
@@ -467,7 +473,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-27 12:57",
+  "last_run": "2026-11-27 13:07",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -504,7 +510,7 @@
     },
     "2026-11-27": {
       "errors": 15,
-      "checks": 28,
+      "checks": 29,
       "new_tenders": 28,
       "matches": 3,
       "grant_alerts": 0
