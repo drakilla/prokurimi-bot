@@ -410,7 +410,10 @@
       "cats": [
         "TCC"
       ],
-      "reminded": []
+      "reminded": [
+        "3",
+        "3"
+      ]
     },
     "4413656": {
       "title": "Furnizim dhe funksionalizim të Hartës OSM-rezolucion 5m në modulin softuerik SPECTRAemc të sistemit SPECTRA në ARKEP",
@@ -464,7 +467,7 @@
     }
   },
   "first_run_done": true,
-  "last_run": "2026-11-28 13:25",
+  "last_run": "2026-11-28 13:35",
   "stats": {
     "2026-11-22": {
       "checks": 32,
@@ -507,7 +510,7 @@
       "grant_alerts": 0
     },
     "2026-11-28": {
-      "checks": 83,
+      "checks": 84,
       "new_tenders": 0,
       "matches": 0,
       "grant_alerts": 0
